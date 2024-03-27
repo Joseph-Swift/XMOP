@@ -9,8 +9,8 @@ app.use(bodyParser.json());
 // Test 2
 // Set AWS credentials
 AWS.config.update({
-    accessKeyId: 'AKIA4MTWLIPLUIYFWL7Z',
-    secretAccessKey: 'TZXom/a7hmg2nGQfQhecK/A9RAf0gS1rZDS4b/CO',
+    accessKeyId: '/*Put your details*/',
+    secretAccessKey: '/*Put your details*/',
 });
 
 // Define a function to handle AWS errors
